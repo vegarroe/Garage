@@ -2,6 +2,7 @@
 Garage node
 
 HW: Wemos D1 mini
+Programming language: Arduino IDE
 Communication: wifi
 
 This project i made to control my garage door ower wifi with mqtt as the protocol.
