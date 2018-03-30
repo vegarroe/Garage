@@ -6,6 +6,8 @@ Communication: wifi
 
 This project i made to control my garage door ower wifi with mqtt as the protocol.
 
+Garage door controller: xxxx
+
 Interface to garage door is digital and uses the folowing inputs and outputs (seenfrom the garage door sideof the interface):
 1 DI for up
 1 DI for down
